@@ -1,0 +1,78 @@
+header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+
+}
+
+li {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    font-size: 20px
+}
+
+.buttons {
+    display: flex;
+    gap: 10px;
+    align-items: center;
+
+}
+
+.buttons a {
+    text-decoration: none;
+}
+
+.signup {
+    background-color: green;
+    color: white;
+    padding: 10px;
+    border-radius: 10px;
+
+}
+
+section {
+    display: flex;
+}
+
+img {
+    border-radius: 50px;
+    width: 800px;
+    height: 600px;
+}
+
+.head {
+    border-radius: 50px;
+    color: white;
+    background-color: green;
+    width: 110px;
+    padding: 5px;
+}
+
+.subhead {
+    font-size: 120px;
+
+}
+
+.paragraph {
+    font-size: 30px
+}
+
+.request {
+    border-radius: 50px;
+    background-color: green;
+    width: 150px;
+    padding: 10px;
+}
+.request a{
+    color: white;
+    text-decoration: none;
+}
+.signup {
+    border-color: black;background-color: white;
+    color: black;
+    padding: 10px;
+    width: 150px;
+
+}
